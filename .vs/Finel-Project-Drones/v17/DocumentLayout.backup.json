@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\asppages\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\asppages\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\asppages\\showdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\asppages\\showdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\asppages\\showdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\asppages\\showdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\asppages\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\asppages\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\finel-project-drones\\scripts\\signupchecks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}|Finel-Project-Drones\\Finel-Project-Drones.csproj|solutionrelative:finel-project-drones\\scripts\\signupchecks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\AspPages\\HomePage.aspx",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\HomePage.aspx",
+              "RelativeToolTip": "Finel-Project-Drones\\AspPages\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T15:34:32.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpPage.aspx",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\SignUpPage.aspx",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\AspPages\\SignUpPage.aspx",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\SignUpPage.aspx",
+              "RelativeToolTip": "Finel-Project-Drones\\AspPages\\SignUpPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T11:48:27.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpChecks.js",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\Scripts\\SignUpChecks.js",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\Scripts\\SignUpChecks.js",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\Scripts\\SignUpChecks.js",
+              "RelativeToolTip": "Finel-Project-Drones\\Scripts\\SignUpChecks.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowJ4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-27T11:48:33.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\App_Code\\Helper.cs",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\App_Code\\Helper.cs",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\App_Code\\Helper.cs",
+              "RelativeToolTip": "Finel-Project-Drones\\App_Code\\Helper.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:34:05.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowData.aspx",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\ShowData.aspx",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\AspPages\\ShowData.aspx",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\ShowData.aspx",
+              "RelativeToolTip": "Finel-Project-Drones\\AspPages\\ShowData.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T11:48:29.07Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowData.aspx.cs",
+              "DocumentMoniker": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\ShowData.aspx.cs",
+              "RelativeDocumentMoniker": "Finel-Project-Drones\\AspPages\\ShowData.aspx.cs",
+              "ToolTip": "D:\\wnoam\\Documents\\\u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D2\u05E8\u05D5\u05EA\\Finel-Project-Drones\\Finel-Project-Drones\\AspPages\\ShowData.aspx.cs",
+              "RelativeToolTip": "Finel-Project-Drones\\AspPages\\ShowData.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:48:30.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

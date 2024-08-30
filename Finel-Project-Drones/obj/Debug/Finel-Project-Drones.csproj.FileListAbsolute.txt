@@ -1,0 +1,538 @@
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+D:\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+D:\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CopyComplete
+D:\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+D:\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+E:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CopyComplete
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+D:\אינטרנט\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+G:\My Drive\Programming Projects\Web Projects\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+G:\My Drive\Programming Projects\Backups\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+C:\Users\wnoam\Desktop\32 Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+D:\Programs\Projects\Webs\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll.config
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Finel-Project-Drones.pdb
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.exe.config
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csc.rsp
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.exe.config
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\csi.rsp
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.AppContext.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Collections.Immutable.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Console.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Globalization.Calendars.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Http.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Net.Sockets.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Reflection.Metadata.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.ValueTuple.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.exe.config
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\vbc.rsp
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\roslyn\VBCSCompiler.exe.config
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.Web.Infrastructure.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Helpers.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.Razor.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Deployment.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\System.Web.WebPages.Razor.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.AssemblyReference.cache
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.csproj.CoreCompileInputs.cache
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Pr.645C1464.Up2Date
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.dll
+D:\wnoam\Documents\אינטרנט בגרות\Finel-Project-Drones\Finel-Project-Drones\obj\Debug\Finel-Project-Drones.pdb

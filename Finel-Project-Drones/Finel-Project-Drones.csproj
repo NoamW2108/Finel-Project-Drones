@@ -1,0 +1,629 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{885F54B9-1AF6-4023-B6A7-C37C633DE4F4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Finel_Project_Drones</RootNamespace>
+    <AssemblyName>Finel-Project-Drones</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=2.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.2.0.1\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\Database2.mdf" />
+    <Content Include="App_Data\Database2_log.ldf">
+      <DependentUpon>Database2.mdf</DependentUpon>
+    </Content>
+    <Content Include="AspPages\ComparisonFPV.aspx" />
+    <Content Include="AspPages\ComparisonInspire.aspx" />
+    <Content Include="AspPages\ComparisonMavic.aspx" />
+    <Content Include="AspPages\ComparisonMini.aspx" />
+    <Content Include="AspPages\ComparisonPhantom.aspx" />
+    <Content Include="AspPages\DJICompany.aspx" />
+    <Content Include="AspPages\FatsharkDominator.aspx" />
+    <Content Include="AspPages\LicenseForDrone.aspx" />
+    <Content Include="AspPages\DjiO3AirUnit.aspx" />
+    <Content Include="AspPages\LogOut.aspx" />
+    <Content Include="AspPages\MavicAir1.aspx" />
+    <Content Include="AspPages\MavicAir2.aspx" />
+    <Content Include="AspPages\MavicAir3.aspx" />
+    <Content Include="AspPages\BestPilot.aspx" />
+    <Content Include="AspPages\HistoryOfDrones.aspx" />
+    <Content Include="AspPages\Phantom1.aspx" />
+    <Content Include="AspPages\Phantom2.aspx" />
+    <Content Include="AspPages\ShowData.aspx" />
+    <Content Include="AspPages\SignUpPagePost.aspx" />
+    <Content Include="AspPages\SimDRL.aspx" />
+    <Content Include="AspPages\SimLiftoff.aspx" />
+    <Content Include="AspPages\SimUncrashed.aspx" />
+    <Content Include="AspPages\TX16SMarkII.aspx" />
+    <Content Include="AspPages\UsesInWar.aspx" />
+    <Content Include="AspPages\Inspire2.aspx" />
+    <Content Include="AspPages\Aerodynamic.aspx" />
+    <Content Include="AspPages\Phantom4.aspx" />
+    <Content Include="AspPages\Inspire3.aspx" />
+    <Content Include="AspPages\Phantom3.aspx" />
+    <Content Include="AspPages\RTH.aspx" />
+    <Content Include="AspPages\DronePlastic.aspx" />
+    <Content Include="AspPages\Inspire1.aspx" />
+    <Content Include="AspPages\UsesInMovies.aspx" />
+    <Content Include="AspPages\DjiSmartController.aspx" />
+    <Content Include="AspPages\RedBullFpv.aspx" />
+    <Content Include="AspPages\PIDInFpv.aspx" />
+    <Content Include="AspPages\Mini2.aspx" />
+    <Content Include="AspPages\TheFirstDrone.aspx" />
+    <Content Include="AspPages\Mini3.aspx" />
+    <Content Include="AspPages\DjiRC.aspx" />
+    <Content Include="AspPages\DjiRCMotion2.aspx" />
+    <Content Include="AspPages\Spark.aspx" />
+    <Content Include="AspPages\Avata.aspx" />
+    <Content Include="AspPages\HomePage.aspx" />
+    <Content Include="AspPages\LoginPage.aspx" />
+    <Content Include="AspPages\SignUpPage.aspx" />
+    <Content Include="AspPages\Fpv.aspx" />
+    <Content Include="AspPages\Mini1.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Pictures\Aerodynamic1.png" />
+    <Content Include="Pictures\Aerodynamic2.png" />
+    <Content Include="Pictures\Avata1.png" />
+    <Content Include="Pictures\Avata2.png" />
+    <Content Include="Pictures\BestPilot1.png" />
+    <Content Include="Pictures\BestPilot2.png" />
+    <Content Include="Pictures\ComparisonFPV.png" />
+    <Content Include="Pictures\ComparisonInspire.png" />
+    <Content Include="Pictures\ComparisonMavicTable.png" />
+    <Content Include="Pictures\ComparisonMiniTable.png" />
+    <Content Include="Pictures\ComparisonPhantomTable.png" />
+    <Content Include="Pictures\DJI1.png" />
+    <Content Include="Pictures\DJI2.png" />
+    <Content Include="Pictures\DjiO3AirUnit1.png" />
+    <Content Include="Pictures\DjiO3AirUnit2.png" />
+    <Content Include="Pictures\DRL1.png" />
+    <Content Include="Pictures\DRL2.png" />
+    <Content Include="Pictures\DroneControl.png" />
+    <Content Include="Pictures\DroneFarming.png" />
+    <Content Include="Pictures\DroneLandscape.png" />
+    <Content Include="Pictures\DroneMavicAir3.png" />
+    <Content Include="Pictures\DroneScientific.png" />
+    <Content Include="Pictures\DroneShipping.png" />
+    <Content Include="Pictures\Fat1.png" />
+    <Content Include="Pictures\Fat2.png" />
+    <Content Include="Pictures\FirstDrone1.png" />
+    <Content Include="Pictures\FirstDrone2.png" />
+    <Content Include="Pictures\FPV1.png" />
+    <Content Include="Pictures\FPV2.png" />
+    <Content Include="Pictures\History1.png" />
+    <Content Include="Pictures\History2.png" />
+    <Content Include="Pictures\Inspire11.png" />
+    <Content Include="Pictures\Inspire12.png" />
+    <Content Include="Pictures\Inspire21.png" />
+    <Content Include="Pictures\Inspire22.png" />
+    <Content Include="Pictures\Inspire31.png" />
+    <Content Include="Pictures\Inspire32.png" />
+    <Content Include="Pictures\License1.png" />
+    <Content Include="Pictures\License2.png" />
+    <Content Include="Pictures\Liftoff1.png" />
+    <Content Include="Pictures\Liftoff2.png" />
+    <Content Include="Pictures\Mavic11.png" />
+    <Content Include="Pictures\Mavic12.png" />
+    <Content Include="Pictures\Mavic21.png" />
+    <Content Include="Pictures\Mavic22.png" />
+    <Content Include="Pictures\Mavic31.png" />
+    <Content Include="Pictures\Mavic32.png" />
+    <Content Include="Pictures\Mini11.png" />
+    <Content Include="Pictures\Mini12.png" />
+    <Content Include="Pictures\Mini21.png" />
+    <Content Include="Pictures\Mini22.png" />
+    <Content Include="Pictures\Mini31.png" />
+    <Content Include="Pictures\Mini32.png" />
+    <Content Include="Pictures\Movie1.png" />
+    <Content Include="Pictures\Movie2.png" />
+    <Content Include="Pictures\Phantom11.png" />
+    <Content Include="Pictures\Phantom12.png" />
+    <Content Include="Pictures\Phantom21.png" />
+    <Content Include="Pictures\Phantom22.png" />
+    <Content Include="Pictures\Phantom31.png" />
+    <Content Include="Pictures\Phantom32.png" />
+    <Content Include="Pictures\Phantom41.png" />
+    <Content Include="Pictures\Phantom42.png" />
+    <Content Include="Pictures\PID1.png" />
+    <Content Include="Pictures\PID2.png" />
+    <Content Include="Pictures\Plastic1.png" />
+    <Content Include="Pictures\Plastic2.png" />
+    <Content Include="Pictures\RC1.png" />
+    <Content Include="Pictures\RC2.png" />
+    <Content Include="Pictures\RCMotion1.png" />
+    <Content Include="Pictures\RCMotion2.png" />
+    <Content Include="Pictures\RedBull1.png" />
+    <Content Include="Pictures\RedBull2.png" />
+    <Content Include="Pictures\RTH1.png" />
+    <Content Include="Pictures\RTH2.png" />
+    <Content Include="Pictures\SmartControl1.png" />
+    <Content Include="Pictures\SmartControl2.png" />
+    <Content Include="Pictures\Spark1.png" />
+    <Content Include="Pictures\Spark2.png" />
+    <Content Include="Pictures\TX1.png" />
+    <Content Include="Pictures\TX2.png" />
+    <Content Include="Pictures\Uncrashed1.png" />
+    <Content Include="Pictures\Uncrashed2.png" />
+    <Content Include="Pictures\War1.png" />
+    <Content Include="Pictures\War2.png" />
+    <Content Include="Scripts\SignUpChecks.js" />
+    <Content Include="StyleSheets\StyleSheet1.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Code\Helper.cs" />
+    <Compile Include="AspPages\ComparisonFPV.aspx.cs">
+      <DependentUpon>ComparisonFPV.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ComparisonFPV.aspx.designer.cs">
+      <DependentUpon>ComparisonFPV.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\ComparisonInspire.aspx.cs">
+      <DependentUpon>ComparisonInspire.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ComparisonInspire.aspx.designer.cs">
+      <DependentUpon>ComparisonInspire.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\ComparisonMavic.aspx.cs">
+      <DependentUpon>ComparisonMavic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ComparisonMavic.aspx.designer.cs">
+      <DependentUpon>ComparisonMavic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\ComparisonMini.aspx.cs">
+      <DependentUpon>ComparisonMini.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ComparisonMini.aspx.designer.cs">
+      <DependentUpon>ComparisonMini.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\ComparisonPhantom.aspx.cs">
+      <DependentUpon>ComparisonPhantom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ComparisonPhantom.aspx.designer.cs">
+      <DependentUpon>ComparisonPhantom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DJICompany.aspx.cs">
+      <DependentUpon>DJICompany.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DJICompany.aspx.designer.cs">
+      <DependentUpon>DJICompany.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\FatsharkDominator.aspx.cs">
+      <DependentUpon>FatsharkDominator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\FatsharkDominator.aspx.designer.cs">
+      <DependentUpon>FatsharkDominator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\LicenseForDrone.aspx.cs">
+      <DependentUpon>LicenseForDrone.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\LicenseForDrone.aspx.designer.cs">
+      <DependentUpon>LicenseForDrone.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DjiO3AirUnit.aspx.cs">
+      <DependentUpon>DjiO3AirUnit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DjiO3AirUnit.aspx.designer.cs">
+      <DependentUpon>DjiO3AirUnit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\MavicAir1.aspx.cs">
+      <DependentUpon>MavicAir1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\MavicAir1.aspx.designer.cs">
+      <DependentUpon>MavicAir1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\MavicAir2.aspx.cs">
+      <DependentUpon>MavicAir2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\MavicAir2.aspx.designer.cs">
+      <DependentUpon>MavicAir2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\MavicAir3.aspx.cs">
+      <DependentUpon>MavicAir3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\MavicAir3.aspx.designer.cs">
+      <DependentUpon>MavicAir3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\BestPilot.aspx.cs">
+      <DependentUpon>BestPilot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\BestPilot.aspx.designer.cs">
+      <DependentUpon>BestPilot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\HistoryOfDrones.aspx.cs">
+      <DependentUpon>HistoryOfDrones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\HistoryOfDrones.aspx.designer.cs">
+      <DependentUpon>HistoryOfDrones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Phantom1.aspx.cs">
+      <DependentUpon>Phantom1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Phantom1.aspx.designer.cs">
+      <DependentUpon>Phantom1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Phantom2.aspx.cs">
+      <DependentUpon>Phantom2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Phantom2.aspx.designer.cs">
+      <DependentUpon>Phantom2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\ShowData.aspx.cs">
+      <DependentUpon>ShowData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\ShowData.aspx.designer.cs">
+      <DependentUpon>ShowData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\SignUpPagePost.aspx.cs">
+      <DependentUpon>SignUpPagePost.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\SignUpPagePost.aspx.designer.cs">
+      <DependentUpon>SignUpPagePost.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\SimDRL.aspx.cs">
+      <DependentUpon>SimDRL.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\SimDRL.aspx.designer.cs">
+      <DependentUpon>SimDRL.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\SimLiftoff.aspx.cs">
+      <DependentUpon>SimLiftoff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\SimLiftoff.aspx.designer.cs">
+      <DependentUpon>SimLiftoff.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\SimUncrashed.aspx.cs">
+      <DependentUpon>SimUncrashed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\SimUncrashed.aspx.designer.cs">
+      <DependentUpon>SimUncrashed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\TX16SMarkII.aspx.cs">
+      <DependentUpon>TX16SMarkII.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\TX16SMarkII.aspx.designer.cs">
+      <DependentUpon>TX16SMarkII.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\UsesInWar.aspx.cs">
+      <DependentUpon>UsesInWar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\UsesInWar.aspx.designer.cs">
+      <DependentUpon>UsesInWar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Inspire2.aspx.cs">
+      <DependentUpon>Inspire2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Inspire2.aspx.designer.cs">
+      <DependentUpon>Inspire2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Aerodynamic.aspx.cs">
+      <DependentUpon>Aerodynamic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Aerodynamic.aspx.designer.cs">
+      <DependentUpon>Aerodynamic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Phantom4.aspx.cs">
+      <DependentUpon>Phantom4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Phantom4.aspx.designer.cs">
+      <DependentUpon>Phantom4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Inspire3.aspx.cs">
+      <DependentUpon>Inspire3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Inspire3.aspx.designer.cs">
+      <DependentUpon>Inspire3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Phantom3.aspx.cs">
+      <DependentUpon>Phantom3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Phantom3.aspx.designer.cs">
+      <DependentUpon>Phantom3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\RTH.aspx.cs">
+      <DependentUpon>RTH.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\RTH.aspx.designer.cs">
+      <DependentUpon>RTH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DronePlastic.aspx.cs">
+      <DependentUpon>DronePlastic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DronePlastic.aspx.designer.cs">
+      <DependentUpon>DronePlastic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Inspire1.aspx.cs">
+      <DependentUpon>Inspire1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Inspire1.aspx.designer.cs">
+      <DependentUpon>Inspire1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\UsesInMovies.aspx.cs">
+      <DependentUpon>UsesInMovies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\UsesInMovies.aspx.designer.cs">
+      <DependentUpon>UsesInMovies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DjiSmartController.aspx.cs">
+      <DependentUpon>DjiSmartController.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DjiSmartController.aspx.designer.cs">
+      <DependentUpon>DjiSmartController.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\RedBullFpv.aspx.cs">
+      <DependentUpon>RedBullFpv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\RedBullFpv.aspx.designer.cs">
+      <DependentUpon>RedBullFpv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\PIDInFpv.aspx.cs">
+      <DependentUpon>PIDInFpv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\PIDInFpv.aspx.designer.cs">
+      <DependentUpon>PIDInFpv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Mini2.aspx.cs">
+      <DependentUpon>Mini2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Mini2.aspx.designer.cs">
+      <DependentUpon>Mini2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\TheFirstDrone.aspx.cs">
+      <DependentUpon>TheFirstDrone.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\TheFirstDrone.aspx.designer.cs">
+      <DependentUpon>TheFirstDrone.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Mini3.aspx.cs">
+      <DependentUpon>Mini3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Mini3.aspx.designer.cs">
+      <DependentUpon>Mini3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DjiRC.aspx.cs">
+      <DependentUpon>DjiRC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DjiRC.aspx.designer.cs">
+      <DependentUpon>DjiRC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\DjiRCMotion2.aspx.cs">
+      <DependentUpon>DjiRCMotion2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\DjiRCMotion2.aspx.designer.cs">
+      <DependentUpon>DjiRCMotion2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Spark.aspx.cs">
+      <DependentUpon>Spark.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Spark.aspx.designer.cs">
+      <DependentUpon>Spark.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Avata.aspx.cs">
+      <DependentUpon>Avata.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Avata.aspx.designer.cs">
+      <DependentUpon>Avata.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\HomePage.aspx.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\HomePage.aspx.designer.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\SignUpPage.aspx.cs">
+      <DependentUpon>SignUpPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\SignUpPage.aspx.designer.cs">
+      <DependentUpon>SignUpPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Fpv.aspx.cs">
+      <DependentUpon>Fpv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Fpv.aspx.designer.cs">
+      <DependentUpon>Fpv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AspPages\Mini1.aspx.cs">
+      <DependentUpon>Mini1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AspPages\Mini1.aspx.designer.cs">
+      <DependentUpon>Mini1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AspPages\MasterPage.Master" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57866</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:57866/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

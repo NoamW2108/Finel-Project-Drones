@@ -1,0 +1,162 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Finel_Project_Drones.AspPages.MasterPage" ClientIDMode="Static"%>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Main</title>
+    <link href="../StyleSheets/StyleSheet1.css?ver=1.0.3" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav>
+        <div class="navbar">
+            <div class="links">
+                <div id="ShowData" runat="server" class="homepage-link">
+                    <a href="ShowData.aspx">הצגת נתונים</a>
+                </div>
+
+                <div id="Login" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">כניסה/הרשמה</button>
+                    <div class="dropdown-content">
+                        <a href="LoginPage.aspx">דף כניסה</a>
+                        <a href="SignUpPage.aspx">דף הרשמה</a>
+                    </div>
+                </div>
+
+                <div id="HomePage" runat="server" class="homepage-link">
+                    <a href="HomePage.aspx">דף הבית</a>
+                </div>
+
+
+                <div id="ComparisonDrones" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">השוואת רחפנים</button>
+                    <div class="dropdown-content">
+                        <a href="ComparisonInspire.aspx">השוואת Inspire</a>
+                        <a href="ComparisonPhantom.aspx">השוואת Phantom</a>
+                        <a href="ComparisonFPV.aspx">השוואת FPV</a>
+                        <a href="ComparisonMavic.aspx">השוואת Mavic</a>
+                        <a href="ComparisonMini.aspx">השוואת Mini</a> 
+                    </div>
+                </div>
+
+                <div id="Inspire" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">Inspire</button>
+                    <div class="dropdown-content">
+                        <a href="Inspire3.aspx">Inspire 3</a>
+                        <a href="Inspire2.aspx">Inspire 2</a>
+                        <a href="Inspire1.aspx">Inspire 1</a>
+                    </div>
+                </div>
+
+                <div id="Phantom" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">Phantom</button>
+                    <div class="dropdown-content">
+                        <a href="Phantom4.aspx">Phantom 4</a>
+                        <a href="Phantom3.aspx">Phantom 3</a>
+                        <a href="Phantom2.aspx">Phantom 2</a>
+                        <a href="Phantom1.aspx">Phantom 1</a>
+                    </div>
+                </div>
+
+
+                <div id="FPV" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">FPV</button>
+                    <div class="dropdown-content">
+                        <a href="Avata.aspx">Avata</a>
+                        <a href="Fpv.aspx">FPV</a>
+                    </div>
+                </div>
+
+                <div id="Mavic" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">Mavic</button>
+                    <div class="dropdown-content">
+                        <a href="MavicAir3.aspx">Mavic Air 3</a>
+                        <a href="MavicAir2.aspx">Mavic Air 2</a>
+                        <a href="MavicAir1.aspx">Mavic Air 1</a>
+                    </div>
+                </div>
+
+                <div id="Mini" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">Mini</button>
+                    <div class="dropdown-content">
+                        <a href="Mini3.aspx">Mini 3</a>
+                        <a href="Mini2.aspx">Mini 2</a>
+                        <a href="Mini1.aspx">Mini 1</a>
+                    </div>
+                </div>
+
+                <div id="OtherDrones" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">רחפנים אחרים</button>
+                    <div class="dropdown-content">
+                        <a href="RedBullFpv.aspx">Red Bull FPV</a>
+                        <a href="Spark.aspx">Spark</a>
+                    </div>
+                </div>
+
+                <div id="Remote" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">שלטים</button>
+                    <div class="dropdown-content">
+                        <a href="DjiRCMotion2.aspx">DJI RC Motion 2</a>
+                        <a href="DjiSmartController.aspx">DJI Smart Controller</a>
+                        <a href="DjiRC.aspx">DJI RC</a>
+                        <a href="TX16SMarkII.aspx">TX16SMarkII</a>
+                    </div>
+                </div>
+
+                <div id="Sim" runat="server" class="dropdown" onmouseenter="toggleDropdown(true)" onmouseleave="toggleDropdown(false)">
+                    <button class="dropbtn" onclick="toggleDropdown()">סימולטורים</button>
+                    <div class="dropdown-content">
+                        <a href="SimDRL.aspx">סימולטור DRL</a>
+                        <a href="SimLiftoff.aspx">סימולטור Liftoff</a>
+                        <a href="SimUncrashed.aspx">סימולטור Uncrashed</a>
+                    </div>
+                </div>
+
+                <div id="knowledge" runat="server" class="dropdown" onmouseenter="toggleDropdown(event, this)" onmouseleave="toggleDropdown(event, this)">
+                    <button class="dropbtn" onclick="toggleDropdown(event, this)">ידע על רחפנים</button>
+                    <div class="dropdown-content additional-knowledge">
+                        <a href="DjiCompany.aspx">חברת DJI</a>
+                        <a href="Aerodynamic.aspx">אוירודינמיקה</a>
+                        <a href="BestPilot.aspx">המטיס הכי טוב</a>
+                        <a href="FatsharkDominator.aspx">משקפי Fatshark Dominator</a>
+                        <a href="DjiO3AirUnit.aspx">DJI O3 Air Unit</a>
+                        <a href="DronePlastic.aspx">הפלסטיק של הרחפנים</a>
+                        <a href="HistoryOfDrones.aspx">היסטוריה של הרחפנים</a>
+                        <a href="LicenseForDrone.aspx">רישיון לרחפן</a>
+                        <a href="PIDInFpv.aspx">PID ברחפנים</a>
+                        <a href="RTH.aspx">פעולת חזרה הביתה</a>
+                        <a href="TheFirstDrone.aspx">הרחפן הראשון</a>
+                        <a href="UsesInMovies.aspx">שימושים בסרטים</a>
+                        <a href="UsesInWar.aspx">שימושים במלחמה</a>
+                    </div>
+                </div>
+
+                <div id="LogOut" runat="server" class="homepage-link">
+                    <a href="LogOut.aspx" style="color:red">התנתקות</a>
+                </div>
+
+                <div id="PrintName" style="color:aqua">
+                    <% 
+                        if ((Session["Login"] == null) || (Session["Login"] == ""))
+                        { 
+                    %>
+                            Hello Guest
+                    <% 
+                        } 
+                        else 
+                        { 
+                    %>
+                            Hello <%= Session["Login"] %>
+                    <% 
+                        } 
+                    %>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+</body>
+</html>
