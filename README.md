@@ -1,6 +1,6 @@
 # Website - The World Of Drones
 Welcome to the world of drones
-This website provides a collection of articles about drones. Users can register and log in to access all content, while guests see only a subset of articles. Admins have an additional page to view and sort registered users.
+This website provides a collection of articles about drones. Users can register and log in to access all content, while guests see only a subset of articles. Admins have an additional page to view, delete and sort registered users.
 
 ## How It Works
 
